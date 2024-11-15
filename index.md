@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.svg">
+
 Retrieval-augmented generation (RAG) systems have presented new challenges in terms of evaluation. The Eval4RAG Workshop at ECIR 2025 aims to help the community grapple with these challenges and reconcile the variety of evaluation proposed protocols. We ultimately aim to push towards a common mindset or conceptual framework for the evaluation of RAG systems that considers the diverse viewpoints of the community.
 
 ## Presentation Topics
