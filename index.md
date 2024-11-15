@@ -1,5 +1,7 @@
 Retrieval-augmented generation (RAG) systems have presented new challenges in terms of evaluation. The Eval4RAG Workshop at ECIR 2025 aims to help the community grapple with these challenges and reconcile the variety of evaluation proposed protocols. We ultimately aim to push towards a common mindset or conceptual framework for the evaluation of RAG systems that considers the diverse viewpoints of the community.
 
+## Presentation Topics
+
 To this end, we call for oral presentations in the workshop to help spawn discussion and share perspectives about RAG evaluation. The call covers but is not limited to:
 - Desired evaluation aspects or qualities for RAG systems;
 - Unification of RAG task structure, e.g., TREC topic structure and Cranfield paradigm;
@@ -17,3 +19,25 @@ Submissions will undergo a lightweight single-blind review, i.e., the author’s
 - Submission portal (Easychair link to be announced)
 - Abstract Submission Deadline: February 21, 2025 (AoE)
 - Notification of Acceptance: March 7, 2025
+
+## Steering and Program Committee
+
+- Ian Soboroff, National Institute of Standards and Technology, USA
+- Jimmy Lin, University of Waterloo, Canada
+- Charlie Clarke, University of Waterloo, Canada
+- Mark Smucker, University of Waterloo, Canada
+- Jaap Kamps, University of Amsterdam, Netherlands
+- Tetsuya Sakai, Waseda University, Japan
+- Dina Demner-Fushman, National Library of Medicine, USA
+- Dawn Lawrie, Johns Hopkins University, USA
+- James Mayfield, Johns Hopkins University, USA
+- Doug Oard, University of Maryland, USA
+
+## Organizers
+
+- Eugene Yang, Human Language Technology Center of Excellence, Johns Hopkins University, USA
+- Ronak Pradeep, University of Waterloo, Canada
+- Dake Zhang, University of Waterloo, Canada
+- Sean MacAvaney, University of Glasgow, UK
+- Maria Maistro, University of Copenhagen, Denmark
+- Mohammad Aliannejadi, University of Amsterdam, Netherlands
