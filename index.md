@@ -21,6 +21,7 @@ Submissions will undergo a lightweight single-blind review, i.e., the author’s
 - Submission portal (Easychair link to be announced)
 - Abstract Submission Deadline: February 21, 2025 (AoE)
 - Notification of Acceptance: March 7, 2025
+- Workshop Date: April 10, 2025
 
 ## Steering and Program Committee
 
