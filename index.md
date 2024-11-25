@@ -18,7 +18,7 @@ Interested presenters should submit a **one-page** extended abstract in [**ACM t
 
 Submissions will undergo a lightweight single-blind review, i.e., the author’s identities are visible to reviewers but not the other way around, by the program committee and workshop organizers.  
 
-- Submission portal: [Easychair](https://easychair.org/conferences/conference_info.cgi?a=33726118)
+- Submission portal: [Easychair](https://easychair.org/conferences/?conf=eval4rag)
 - Abstract Submission Deadline: **February 21, 2025 (AoE)**
 - Notification of Acceptance: March 7, 2025
 - Workshop Date: April 10, 2025
