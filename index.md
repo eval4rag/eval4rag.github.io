@@ -14,7 +14,7 @@ To this end, we call for oral presentations in the workshop to help spawn discus
 - Reasons to abandon evaluation for RAG, i.e., we don’t need evaluation;
 - Other RAG evaluation spicy topics.
 
-Interested presenters should submit a **one-page** extended abstract in [**ACM two-column conference format**](https://www.acm.org/publications/proceedings-template) as the presentation proposal. The extended abstract should cover the relevancy of the presentation to the workshop, especially for presenting a published or accepted work(s). Accepted extended abstracts will be given a short dedicated time slot to present their perspective in the workshop. We encourage authors of relevant accepted papers at the main conference to submit an extended abstract to present the work again at the workshop with a focus on evaluation. 
+Interested presenters should submit a **one-page** extended abstract in [**ACM two-column conference format**](https://www.acm.org/publications/proceedings-template) as the presentation proposal. The extended abstract should cover the relevancy of the presentation to the workshop, especially for presenting a published or accepted work(s). Both **published and unpublished work** are welcomed as long as the presentation is relevant to the workshop. Accepted extended abstracts will be given a short dedicated time slot to present their perspective in the workshop. We encourage authors of relevant accepted papers at the main conference to submit an extended abstract to present the work again at the workshop with a focus on evaluation. 
 
 Submissions will undergo a lightweight single-blind review, i.e., the author’s identities are visible to reviewers but not the other way around, by the program committee and workshop organizers.  
 
