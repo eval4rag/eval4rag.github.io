@@ -4,25 +4,21 @@ Retrieval-augmented generation (RAG) systems have presented new challenges in te
 
 ## Tentative Program
 
-| Time    | Program | Speaker |
+|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Program | Speaker or Participants |
 | -------- | ------- | ------ |
-| 14:30 <br> 14:40  | Opening with Overview of Existing RAG Shared Tasks  | TBD |
-| 14:40 <br> 15:15  | Keynote Talk                                        | [Fabio Petroni](https://www.fabiopetroni.com/) from [Samaya AI](https://samaya.ai/) |
-| 15:18 <br> 15:25  | Automated Evaluation of RAG in Romanian<br/>Authors: Claudiu Creanga, Teodor Marchitan and Liviu Dinu | TBD |
-| 15:25 <br> 15:32  | MARE: Automatic Modality-Agnostic Report Evaluation<br/>Authors: Alexander Martin, Kate Sanders, William Walden, Eugene Yang, Reno Kriz, Francis Ferraro and Benjamin Van Durme | TBD |
-| 15:32 <br> 15:39  | Controlled Retrieval-Augmented Context Evaluation<br/>Authors: Jia-Huei Ju, Suzan Verberne, Maarten de Rijke and Andrew Yates | TBD |
-| 15:39 <br> 15:46  | Open-ended error analysis in retrieval-augmented generation<br/>Authors: Nadezhda Chirkova | TBD |
-| 15:46 <br> 15:53  | Challenges in RAG Evaluation for Text Classification in Evidence Synthesis<br/>Authors: Sagar Uprety, Ailbhe Finnerty and James Thomas | TBD |
-| 15:53 <br> 16:00  | Automated Evaluations of RAG Systems in Customer Support in Automotive Applications<br/>Authors: Luis Wagner, Gayane Sedrakyan and Jos Van Hillegersberg | TBD |
-
-_16:00 -- 16:30: Coffee Break -- Organizers Collecting/Organizing Discussion Idea_
-
-| Time              | Program                                           | Speaker   |
-| ----------------- | ------------------------------------------------- | --------- |
-| 16:30 <br> 16:45  | Discussion Idea Presentation and Group Assignment | TBD       |
-| 16:45 <br> 17:30  | Breakout Discussion                               | Attendees |
-| 17:30 <br> 17:50  | Group Report Back                                 | Attendees |
-| 17:50 <br> 18:00  | Closing                                           | TBD       |
+| 14:30 -- 14:40  | Opening with Overview of Existing RAG Shared Tasks  | TBD |
+| 14:40 -- 15:15  | Keynote Talk                                        | [Fabio Petroni](https://www.fabiopetroni.com/) |
+| 15:18 -- 15:25  | Automated Evaluation of RAG in Romanian<br/>Authors: Claudiu Creanga, Teodor Marchitan and Liviu Dinu | TBD |
+| 15:25 -- 15:32  | MARE: Automatic Modality-Agnostic Report Evaluation<br/>Authors: Alexander Martin, Kate Sanders, William Walden, Eugene Yang, Reno Kriz, Francis Ferraro and Benjamin Van Durme | TBD |
+| 15:32 -- 15:39  | Controlled Retrieval-Augmented Context Evaluation<br/>Authors: Jia-Huei Ju, Suzan Verberne, Maarten de Rijke and Andrew Yates | TBD |
+| 15:39 -- 15:46  | Open-ended error analysis in retrieval-augmented generation<br/>Authors: Nadezhda Chirkova | TBD |
+| 15:46 -- 15:53  | Challenges in RAG Evaluation for Text Classification in Evidence Synthesis<br/>Authors: Sagar Uprety, Ailbhe Finnerty and James Thomas | TBD |
+| 15:53 -- 16:00  | Automated Evaluations of RAG Systems in Customer Support in Automotive Applications<br/>Authors: Luis Wagner, Gayane Sedrakyan and Jos Van Hillegersberg | TBD |
+| 16:00 -- 16:30  | _Coffee Break -- Organizers Collecting/Organizing Discussion Idea_ |    |
+| 16:30 -- 16:45  | Discussion Idea Presentation and Group Assignment | TBD       |
+| 16:45 -- 17:30  | Breakout Discussion                               | Attendees |
+| 17:30 -- 17:50  | Group Report Back                                 | Attendees |
+| 17:50 -- 18:00  | Closing                                           | TBD       |
 
 ## Presentation Topics
 
