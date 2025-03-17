@@ -2,6 +2,28 @@
 
 Retrieval-augmented generation (RAG) systems have presented new challenges in terms of evaluation. The Eval4RAG Workshop at ECIR 2025 aims to help the community grapple with these challenges and reconcile the variety of evaluation proposed protocols. We ultimately aim to push towards a common mindset or conceptual framework for the evaluation of RAG systems that considers the diverse viewpoints of the community.
 
+## Tentative Program
+
+| Time    | Program | Speaker |
+| -------- | ------- | ------ |
+| 14:30 <br> 14:40  | Opening with Overview of Existing RAG Shared Tasks  | TBD |
+| 14:40 <br> 15:15  | Keynote Talk                                        | [Fabio Petroni](https://www.fabiopetroni.com/) from [Samaya AI](https://samaya.ai/) |
+| 15:18 <br> 15:25  | Automated Evaluation of RAG in Romanian<br/>Authors: Claudiu Creanga, Teodor Marchitan and Liviu Dinu | TBD |
+| 15:25 <br> 15:32  | MARE: Automatic Modality-Agnostic Report Evaluation<br/>Authors: Alexander Martin, Kate Sanders, William Walden, Eugene Yang, Reno Kriz, Francis Ferraro and Benjamin Van Durme | TBD |
+| 15:32 <br> 15:39  | Controlled Retrieval-Augmented Context Evaluation<br/>Authors: Jia-Huei Ju, Suzan Verberne, Maarten de Rijke and Andrew Yates | TBD |
+| 15:39 <br> 15:46  | Open-ended error analysis in retrieval-augmented generation<br/>Authors: Nadezhda Chirkova | TBD |
+| 15:46 <br> 15:53  | Challenges in RAG Evaluation for Text Classification in Evidence Synthesis<br/>Authors: Sagar Uprety, Ailbhe Finnerty and James Thomas | TBD |
+| 15:53 <br> 16:00  | Automated Evaluations of RAG Systems in Customer Support in Automotive Applications<br/>Authors: Luis Wagner, Gayane Sedrakyan and Jos Van Hillegersberg | TBD |
+
+_16:00 -- 16:30: Coffee Break -- Organizers Collecting/Organizing Discussion Idea_
+
+| Time              | Program                                           | Speaker   |
+| ----------------- | ------------------------------------------------- | --------- |
+| 16:30 <br> 16:45  | Discussion Idea Presentation and Group Assignment | TBD       |
+| 16:45 <br> 17:30  | Breakout Discussion                               | Attendees |
+| 17:30 <br> 17:50  | Group Report Back                                 | Attendees |
+| 17:50 <br> 18:00  | Closing                                           | TBD       |
+
 ## Presentation Topics
 
 To this end, we call for oral presentations in the workshop to help spawn discussion and share perspectives about RAG evaluation. The call covers but is not limited to:
