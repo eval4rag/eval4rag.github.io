@@ -7,7 +7,7 @@ Retrieval-augmented generation (RAG) systems have presented new challenges in te
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Program | Speaker or Participants |
 | -------- | ------- | ------ |
 | 14:30 -- 14:40  | Opening with Overview of Existing RAG Shared Tasks  | TBD |
-| 14:40 -- 15:15  | Keynote Talk                                        | [Fabio Petroni](https://www.fabiopetroni.com/) |
+| 14:40 -- 15:15  | Keynote Talk -- A Journey Through Domain-Specific RAG and Agent Evaluation | [Fabio Petroni](https://www.fabiopetroni.com/) |
 | 15:18 -- 15:25  | Automated Evaluation of RAG in Romanian<br/>Authors: Claudiu Creanga, Teodor Marchitan and Liviu Dinu | TBD |
 | 15:25 -- 15:32  | MARE: Automatic Modality-Agnostic Report Evaluation<br/>Authors: Alexander Martin, Kate Sanders, William Walden, Eugene Yang, Reno Kriz, Francis Ferraro and Benjamin Van Durme | TBD |
 | 15:32 -- 15:39  | Controlled Retrieval-Augmented Context Evaluation<br/>Authors: Jia-Huei Ju, Suzan Verberne, Maarten de Rijke and Andrew Yates | TBD |
@@ -19,6 +19,17 @@ Retrieval-augmented generation (RAG) systems have presented new challenges in te
 | 16:45 -- 17:30  | Breakout Discussion                               | Attendees |
 | 17:30 -- 17:50  | Group Report Back                                 | Attendees |
 | 17:50 -- 18:00  | Closing                                           | TBD       |
+
+## Keynote: A Journey Through Domain-Specific RAG and Agent Evaluation
+
+Speaker: Fabio Petroni 
+
+### Abstract
+In this talk, I will share the evaluation journey at Samaya over the past two and a half years—starting from factoid questions we handcrafted internally, to evaluating complex, real-world predictions about the future. I’ll highlight the evolution of our methodologies and the growing challenges of assessing systems operating in specialized domains, with an eye toward actionable insights and open questions for the community.
+
+### Bio
+Fabio Petroni is the Co-Founder and CTO of Samaya AI, specializing in the intersection of AI and knowledge. He holds a Ph.D. in Engineering of Computer Science from Sapienza University of Rome and has conducted research in leading industrial labs, including the FAIR team at Meta AI and the R&D department at Thomson Reuters. Fabio is known for his work on knowledge-intensive NLP, with awards such as first place in the NeurIPS Efficient Open-Domain Question Answering competition (2020) and the Google Best Paper Award at AKBC (2020). His research contributions include several high-impact publications, including Language Models as Knowledge Bases? and the original RAG paper.
+
 
 ## Presentation Topics
 
