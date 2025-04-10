@@ -4,6 +4,8 @@ Retrieval-augmented generation (RAG) systems have presented new challenges in te
 
 ## Tentative Program
 
+[**Idea Board**](https://docs.google.com/document/d/1d2WC0i2vsvVllQLTwLHVKQL8BzEqrUSxx1NwvaQxpck/edit?usp=sharing)
+
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Program | Speaker or Participants |
 | -------- | ------- | ------ |
 | 14:30 -- 14:40  | Opening with Overview of Existing RAG Shared Tasks  | TBD |
